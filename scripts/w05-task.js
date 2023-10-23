@@ -40,6 +40,7 @@ const displayTemples = (temples) => {
 const getTemples = async () => {
     const response = await fetch("https://byui-cse.github.io/cse121b-ww-course/resources/temples.json");
     templeList = await response.json();
+    console.log(templeList);
     displayTemples(templeList);
 };
 
@@ -75,6 +76,7 @@ document.querySelector("#sortBy").addEventListener("change", () => {sortBy(templ
 
 
 getTemples();
+console.log(templeList);
 console.log(templeList);
 
 /* Event Listener */

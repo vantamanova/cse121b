@@ -1,0 +1,34 @@
+What success have you noted and are most proud of during the design and development of your project?
+What challenges have you run into during the development?
+Name two (2) to three (3) resources that you have found useful during the the course to complete tasks like this project. Why have they been especially useful to you?
+
+
+
+
+Project Requirements
+Your project must meet the following requirements:
+
+- Project must be a JavaScript application that is hosted and rendered by GitHub Pages.
+- Must interact with the DOM of an HTML document.
+- CSS is optional but highly encouraged at a basic level. It is OK to use a CSS framework but do NOT let this get in the way of the main objective.
+- Use ES modules.
+- Include conditional branching.
+- Exclusively use template literals when building strings.
+- Use an array and at least one array method.
+- The project must consume external data using Fetch and where the data is delivered in JSON format be that through a third-party API or your own data source.
+- The target scope and time commitment is about 3 hours.
+
+Checkpoint 
+What success have you noted and are most proud of during the design and development of your project?
+This week I was able to more fully understand what is an API, and how to work with API services. I was able to work with data that I got from rapidapi.com.
+Also, I created the basic interface for my final program so it could display all the required information.
+I did most of my HTML, CSS, and JS for this project.
+ 
+What challenges have you run into during the development?
+The first challenge was that I was struggling with getting data from API. I needed more understanding of how to use the service.
+I also had some difficulties with working with images using DOM.
+ 
+Name two (2) to three (3) resources that you have found useful during the course to complete tasks like this project. Why have they been especially useful to you?
+First of all, developer.mozilla.org was a great source of information. It helped me with basic aspects. It helped me with DOM a lot. 
+www.w3schools.com was a good source of information because I was able to have some practice there on topics that were not clear enough. It really helped me understand some Tags.
+I've also been able to find some helpful things on blog.devgenius.io. It explains information so it is easy to understand. For example, Array Callback Method and Arrow Functions. 
