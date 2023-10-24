@@ -19,7 +19,6 @@ async function getData() {
         heroesList = await response.json();
         
         displayHeroes(heroesList);
-        console.log(heroesList);
         return heroesList;
       }
 }
